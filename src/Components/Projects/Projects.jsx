@@ -14,7 +14,7 @@ export const Projects = () => {
             <div className="col-3">
                 <Link to = 'countyGuid'>county Guid</Link>
                 <br/>
-                <Link to = 'mob'>mob Design</Link>
+                <Link to = 'recipeApp'>Recipe App</Link>
                 <br/>
 
                 <Link to = 'doc'>Doc Design</Link>

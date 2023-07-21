@@ -22,7 +22,8 @@ const routers = createBrowserRouter([
     {path: "aProps", element: <AProps/>},
     {path: "projects", element: <Projects/>,
     children: [
-      {path: "countyGuid", element: <CountryG/>}
+      {path: "countyGuid", element: <CountryG/>},
+      {path: "countyGuid", element: <CountryG/>},
     ],
   },
   {
